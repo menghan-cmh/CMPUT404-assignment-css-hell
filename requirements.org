@@ -36,7 +36,7 @@
     - [x] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
     - [x] document in your README what modifications you had to make
       to the project gutenberg HTML files.
-    - [ ] Take 3 screenshots of firefox running all of your pages that
+    - [x] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
 ** Part II 
@@ -74,23 +74,23 @@
     - [x] Ugly theme has to be noticeabley different.
     - [x] 2 HTML files, each with the same content but different CSS
     - [x] your photo (try to keep it professional)
-    - [ ] Take 2 screenshots of firefox running all of your pages that
+    - [x] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [x] Ensure that files are appropriately named and CASE SENSITIVE.
     - [x] homepage/good.html should host your good page
     - [x] homepage/ugly.html should host your ugly page
-    - [ ] gutenberg/1.html should host your first gutenberg book
-    - [ ] gutenberg/2.html should host your second gutenberg book
-    - [ ] gutenberg/3.html should host your third gutenberg book
-    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+    - [x] gutenberg/1.html should host your first gutenberg book
+    - [x] gutenberg/2.html should host your second gutenberg book
+    - [x] gutenberg/3.html should host your third gutenberg book
+    - [x] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
 ** Restrictions
    - [x] You may use Python
-   - [ ] Must run in your VM (Firefox and Chromium)
-   - [ ] License your content properly (use a Creative Commons License
+   - [x] Must run in your VM (Firefox and Chromium)
+   - [x] License your content properly (use a Creative Commons License
      like CC-BY-ND or CC-BY-SA)
      - Put your name on it!
-   - [ ] If you borrow CSS, always cite the author and the source
+   - [x] If you borrow CSS, always cite the author and the source
 
 ** Recommendations
 
