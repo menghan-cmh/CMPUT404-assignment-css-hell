@@ -22,3 +22,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+
+Modifications to Gutenberg HTML files
+=======
+apply the `style.css` to the html based on the original files.
+All the changes in stylesheet can be checked in the `style.css` file.
+
+Reference
+==========
+
+Navigation bar: https://www.w3schools.com/howto/howto_js_topnav.asp
+
