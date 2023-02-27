@@ -16,6 +16,13 @@ h3 {
     background-color: lightsalmon;
     margin: 10px;
 }
+
+.whoAmI ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 #myName {
     color: blue;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
