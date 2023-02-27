@@ -1,0 +1,64 @@
+html {
+    background-image: linear-gradient(#e66465, #9198e5);
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3 {
+    text-align: center;
+}
+.whoAmI {
+    width: 500px;
+    height: fit-content;
+    padding: 20px;
+    border: 4px double red;
+    border-radius: 20px;
+    background-color: lightsalmon;
+    margin: 10px;
+}
+#myName {
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#myPhoto {
+    width: 200px;
+    height: auto;
+    border: 1px outset grey;
+    float: right;
+    margin: 10px;
+}
+#shortIntro {
+    text-shadow: 10px;
+    color: darkblue;
+    text-decoration: dashed;
+}
+.myHistory {
+    border: 3px double black;
+    padding: 0%;
+    width: 600px;
+}
+.myHistory > div {
+    color: purple;
+    padding-left: 10px;
+    border: 1px dotted black;
+}
+.myHistory p {
+    color: red;
+}
+.importantPoints {
+    border: 3px black dotted;
+    padding-right: 20px;
+    margin: 10px;
+    float: right;
+    background-image: radial-gradient(yellow, orange);
+    text-align: center;
+}
+.whatICanOffer {
+    color: white;
+    background-color: darkblue;
+    border: 3px red solid;
+    width: 600px;
+}
+.whatICanOffer > p {
+    padding-left: 10px;
+}
